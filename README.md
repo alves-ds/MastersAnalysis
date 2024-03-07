@@ -8,3 +8,6 @@ Access the full mixed model modelling from my Masters Dissertation: https://alve
 
 
 Access the full reliability analysis from my Masters Dissertation: https://alves-ds.github.io/MastersAnalysis/resumo_confiabilidade/
+
+
+Access the full individual precision analysis from my Masters Dissertation: https://alves-ds.github.io/MastersAnalysis/resumo_precisao_individual/
